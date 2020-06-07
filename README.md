@@ -20,9 +20,9 @@
 
 - Univariate Analysis
 
-- Bivariate Regression
+- Bivariate Analysis
 
-- Multivariate Regression
+- Multivariate Analysis
 
 - Multiple Linear Regression
 
